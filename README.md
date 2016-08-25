@@ -2,10 +2,9 @@
 Researchers: Angel A. Sanquiche Sanchez, Kevin Legarreta González
 The implementation of Mutual, with a combination of khmer tools and trinity.
 
-#Note from your friendly research partner
-##I'm bored :-)
+## Downloaded Mutual, Velvet and Oases from github. 
+- Oases and Velvet: https://github.com/dzerbino/oases
+- Mutual: http://faculty.cse.tamu.edu/shsze/mutual/
 
-#yup
-
-Screw you -Angel
-Best wishes ;-) -Angel
+### Download the transcriptomes
+- For the test we downloaded the transcriptomes from NCBI database.
