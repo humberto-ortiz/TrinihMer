@@ -4,6 +4,7 @@ The implementation of Mutual, with a combination of khmer tools and trinity.
 
 ##Contact info:
 - e-mail: kevinleglez@gmail.com
+- e-mail: angelsan720@gmail.com
 
 #Process:
 
