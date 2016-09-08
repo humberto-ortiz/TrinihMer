@@ -14,3 +14,5 @@ The implementation of Mutual, with a combination of khmer tools and trinity.
 
 ### Download the transcriptomes
 - For the test we downloaded the transcriptomes from NCBI database.
+
+(which transcriptomes, what database? Be specific)
